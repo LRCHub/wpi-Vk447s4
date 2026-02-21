@@ -1,0 +1,264 @@
+{
+  "version": 1,
+  "base_track": "in out",
+  "base_artist": "04 Limited Sazabys",
+  "createdAt": "2026-02-21T13:12:19.251931Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fade In-Out",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/01_Fade_In-Out_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fade In-Out",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/02_Fade_In-Out_Oasis.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fade In-Out (Mustique Demo)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/03_Fade_In-Out_(Mustique_Demo)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "In + Out",
+      "artist": "dvsn",
+      "has_synced": true,
+      "path": "select/04_In_+_Out_dvsn.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "In & Out of Love",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/05_In_&_Out_of_Love_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Come In Out Of The Rain",
+      "artist": "Engineers",
+      "has_synced": true,
+      "path": "select/06_Come_In_Out_Of_The_Rain_Engineers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "In & Out of Love",
+      "artist": "Visions of Atlantis",
+      "has_synced": false,
+      "path": "select/07_In_&_Out_of_Love_Visions_of_Atlantis.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blood In/Out - 2009 - Remaster;",
+      "artist": "D-A-D",
+      "has_synced": false,
+      "path": "select/08_Blood_In_Out_-_2009_-_Remaster;_D-A-D.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blood In\u0000Out",
+      "artist": "D‐A‐D",
+      "has_synced": false,
+      "path": "select/09_Blood_In\u0000Out_D‐A‐D.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Come In Out Of The Rain",
+      "artist": "Parliament",
+      "has_synced": false,
+      "path": "select/10_Come_In_Out_Of_The_Rain_Parliament.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Falling In & Out Of Love",
+      "artist": "Pure Prairie League",
+      "has_synced": true,
+      "path": "select/11_Falling_In_&_Out_Of_Love_Pure_Prairie_League.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "In & Out Of Love",
+      "artist": "Patti Austin",
+      "has_synced": true,
+      "path": "select/12_In_&_Out_Of_Love_Patti_Austin.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Come In Out of the Rain",
+      "artist": "Wendy Moten",
+      "has_synced": true,
+      "path": "select/13_Come_In_Out_of_the_Rain_Wendy_Moten.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fade In‐Out",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/14_Fade_In‐Out_Oasis.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fade In‐Out (Mustique demo)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/15_Fade_In‐Out_(Mustique_demo)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bones in the Ocean",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/16_Bones_in_the_Ocean_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Misty Mountains (In Dwarvish/Khuzdul)",
+      "artist": "Colm R. McGuinness",
+      "has_synced": true,
+      "path": "select/17_Misty_Mountains_(In_Dwarvish_Khuzdul)_Colm_R._McGuinness.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Misty Mountains (In Dwarvish\u0000Khuzdul)",
+      "artist": "Colm R. McGuinness",
+      "has_synced": false,
+      "path": "select/18_Misty_Mountains_(In_Dwarvish\u0000Khuzdul)_Colm_R._McGuinness.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "My Mother Told Me (In Old Norse)",
+      "artist": "Colm R. McGuinness",
+      "has_synced": true,
+      "path": "select/19_My_Mother_Told_Me_(In_Old_Norse)_Colm_R._McGuinness.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Sleeping in the Cold Below (From \"Warframe\") [feat. Damhnait Doyle]",
+      "artist": "Keith Power feat. Alan Doyle",
+      "has_synced": true,
+      "path": "select/20_Sleeping_in_the_Cold_Below_(From__Warframe_)_[feat._Damhnait_Doyle]_Keith_Power_feat._Alan_Doyle.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Sleeping in the Cold Below (From \"Warframe\")",
+      "artist": "Keith Power",
+      "has_synced": true,
+      "path": "select/21_Sleeping_in_the_Cold_Below_(From__Warframe_)_Keith_Power.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Sugar In The Hold",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/22_Sugar_In_The_Hold_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "The Bard's Song - In The Forest",
+      "artist": "Blind Guardian",
+      "has_synced": true,
+      "path": "select/23_The_Bard's_Song_-_In_The_Forest_Blind_Guardian.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Break Up In A Bar",
+      "artist": "Eli Young Band",
+      "has_synced": true,
+      "path": "select/24_Break_Up_In_A_Bar_Eli_Young_Band.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Breaking Up Was Easy In The 90's",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/25_Breaking_Up_Was_Easy_In_The_90's_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Breaking Up Was Easy In The 90's",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/26_Breaking_Up_Was_Easy_In_The_90's_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Cover Me In Sunshine",
+      "artist": "P!nk feat. Willow Sage Hart",
+      "has_synced": true,
+      "path": "select/27_Cover_Me_In_Sunshine_P!nk_feat._Willow_Sage_Hart.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Dancin' In the Moonlight",
+      "artist": "Chris Lane feat. Lauren Alaina",
+      "has_synced": true,
+      "path": "select/28_Dancin'_In_the_Moonlight_Chris_Lane_feat._Lauren_Alaina.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Dancin' In The Moonlight (feat. Lauren Alaina)",
+      "artist": "Chris Lane",
+      "has_synced": true,
+      "path": "select/29_Dancin'_In_The_Moonlight_(feat._Lauren_Alaina)_Chris_Lane.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Dancing In the Moonlight",
+      "artist": "Jubël feat. NEIMY",
+      "has_synced": true,
+      "path": "select/30_Dancing_In_the_Moonlight_Jubël_feat._NEIMY.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Dream in Color",
+      "artist": "HALIENE",
+      "has_synced": true,
+      "path": "select/31_Dream_in_Color_HALIENE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "in out",
+      "artist": "04 Limited Sazabys",
+      "has_synced": false,
+      "path": "select/pl_01_in_out_04_Limited_Sazabys.txt"
+    }
+  ]
+}
